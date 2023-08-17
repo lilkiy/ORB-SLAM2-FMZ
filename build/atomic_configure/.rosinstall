@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/emma/catkin_orbslam2/devel/setup.sh

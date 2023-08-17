@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/emma/catkin_orbslam2/devel -DCMAKE_INSTALL_PREFIX=/home/emma/catkin_orbslam2/install -G Unix Makefiles
